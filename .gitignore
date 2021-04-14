@@ -3,3 +3,13 @@
 ################################################################################
 
 /Source/.vs/TheLudoGame/v16
+/Source/ConsoleApplication/bin/Debug/net5.0
+/Source/ConsoleApplication/obj
+/Source/GameEngine/bin/Debug/netcoreapp3.1
+/Source/GameEngine/obj/Debug/netcoreapp3.1
+/Source/GameEngine/obj
+/Source/GameEngineTest/bin/Debug/net5.0
+/Source/GameEngineTest/obj/Debug/net5.0
+/Source/GameEngineTest/obj
+/Source/GameEngineTestNUnit/obj
+/Source/LudoGameRESTApi/obj
